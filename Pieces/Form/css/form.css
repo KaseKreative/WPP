@@ -18,3 +18,7 @@ input {
   padding:5px;
   width:175px;
 }
+
+.formFields:focus {
+  background:#ffba6c;
+}
