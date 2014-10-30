@@ -1,0 +1,19 @@
+#typeOne h1, #typeOne h2, #typeOne h3, #typeOne h4 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#typeOne p {
+  font-family: 'Rokkitt', serif;
+}
+
+#typeTwo {
+  border-top: 1px solid black;
+}
+
+#typeTwo h1, #typeTwo h2, #typeTwo h3, #typeTwo h4 {
+  font-family: 'Oswald', sans-serif;
+}
+
+#typeTwo p {
+  font-family: 'Vollkorn', serif;
+}
