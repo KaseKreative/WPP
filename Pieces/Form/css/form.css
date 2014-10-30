@@ -1,0 +1,20 @@
+.clear {
+  clear:both;
+}
+
+/* ONLY FOR THIS PAGE */
+input {
+  margin-bottom:15px;
+  float: left;
+}
+
+#range {
+  margin-left:0;
+}
+
+.formFields {
+  border: 2px solid #ce7e00;
+  border-radius:3px;
+  padding:5px;
+  width:175px;
+}
