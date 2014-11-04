@@ -1,0 +1,37 @@
+ #wrapper {
+   width: 960px;
+   margin: 0 auto;
+   padding: 0;
+ }
+
+ #ethanM {
+   width: 600px;
+ }
+
+#ethanM h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#ethanM p {
+  font-family: 'Rokkitt', serif;
+}
+
+blockquote {
+  margin-top: 150px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 36px;
+  width: 1000px;
+  color: #949494;
+}
+
+#ethanMimg {
+  margin-right: 10px;
+  float: left;
+  width: 200px;
+}
+
+#ethanMimg img {
+  width: 100%;
+  border-radius:25%;
+  box-shadow: 1px 1px 4px 1px grey;
+}

@@ -1,0 +1,93 @@
+/* Clear class */
+.clear {
+clear: both;
+}
+
+/* BODY */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER */
+header {
+
+  height: 50px;
+  width: 100%;
+  background: #999f9e;
+  box-shadow: 2px 2px 2px 2px #bababa;
+}
+
+/* Logo */
+
+#logo {
+  float: left;
+  background: #515151;
+  padding: 5px;
+  text-align: center;
+  margin-left: 100px;
+  margin-top:5px;
+  border-radius: 3px;
+}
+#logoImg {
+  color: white;
+  float:left;
+  padding: 5px 20px;
+  margin:0;
+  /* UN - COMMENT WHEN USE */
+  /* text-indent:-9999px; */
+}
+
+/* NAV */
+#navigation {
+  margin-right: 200px;
+  margin-top:15px;
+  padding:0;
+  float:right;
+  /* background: red; */
+  width:50%;
+}
+
+/* Nav UL */
+#navList {
+  width:452px;
+  padding:0;
+  list-style: none;
+  margin:0 auto;
+}
+
+/* Nav Li */
+#navList li {
+  float: left;
+  text-align: center;
+  width:150px;
+  /* background: purple; */
+}
+
+#navList li:nth-child(2) {
+  border-left: 1px solid #515151;
+  border-right: 1px solid #515151;
+}
+
+/* Nav Anchors */
+#navList li a {
+  text-decoration: none;
+  color:#515151;
+  font-family: 'Open Sans Condensed', sans-serif;
+  /* background: orange; */
+  padding: 5px;
+}
+
+#navList li a {
+  color:#515151;
+}
+
+#navList li a:visited {
+  color:#343434;
+}
+#navList li a:hover {
+  color:#cc0cd2;
+}
+#navList li a:active {
+  color:#cc0cd2;
+}

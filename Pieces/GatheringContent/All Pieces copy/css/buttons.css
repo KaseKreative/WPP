@@ -1,0 +1,36 @@
+
+.Button {
+  text-align:center;
+  padding: 2px;
+  color:#f8f8f8;
+  width: 75px;
+  border-radius: 3px;
+  background:#cd4e0e;
+  box-shadow: 1px 1px 1px 1px #a2a1a1;
+  font-family: Tahoma;
+  cursor:pointer;
+  font-size: .8em;
+
+  margin-bottom: 10px;
+}
+.Button:hover {
+  background:#dc7100;
+}
+
+
+.Submit {
+  text-align:center;
+  padding: 2px;
+  color:#f8f8f8;
+  width: 150px;
+  padding: 5px 0;
+  border-radius: 3px;
+  background:#da5b35;
+  box-shadow: 1px 1px 1px 1px #a2a1a1;
+  font-family: Tahoma;
+  cursor:pointer;
+}
+
+.Submit:hover {
+  background:#dc7100;
+}

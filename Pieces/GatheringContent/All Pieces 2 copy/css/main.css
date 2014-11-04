@@ -1,0 +1,40 @@
+body {
+  background: #95A19D;
+}
+
+#title {
+  margin-left: 40px;
+  font-family: 'Oswald', sans-serif;
+  margin-bottom: 0;
+}
+
+#wrapper {
+  float: right;
+  width: 960px;
+  margin-top: 75px;
+  margin-right: 50px;
+  /* background: purple; */
+  position: relative;
+}
+
+#wilsonMimg {
+  width: 400px;
+}
+
+#wilsonMimg img {
+  width: 100%;
+}
+
+#titleImg {
+}
+
+#wilsonM p {
+  font-family: 'Vollkorn', serif;
+  font-size: 18px;
+}
+
+blockquote {
+  font-size: 25px;
+  color: #52275a;
+  font-style: italic;
+}
